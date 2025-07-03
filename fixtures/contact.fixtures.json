@@ -1,0 +1,25 @@
+{
+    "validContact":{
+        "firstName" : "Ann",
+        "lastName" : "Raya",
+        "dob" : "2004-01-23",
+        "email" : "mynamebhujel@gmail.com",
+        "phone" : "9869801893",
+        "country" : "Nepal",
+        "streetaddress1" : "Manamaiju",
+        "streetaddress2" : "Manamaiju",
+        "city" : "Kathmandu"
+    },
+    "editContact":{
+        "firstName" : "Ann",
+        "lastName" : "Raya",
+        "dob" : "2004-01-23",
+        "email" : "mynamebhujel@gmail.com",
+        "phone" : "9869801893",
+        "country" : "Nepal",
+        "streetaddress1" : "Manamaiju",
+        "streetaddress2" : "Manamaiju",
+        "city" : "Kathmandu"
+    }
+
+}
